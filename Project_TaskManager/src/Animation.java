@@ -49,7 +49,7 @@ public class Animation extends JWindow {
     public void showSplashAndExit() {
          
         showSplash();
-        System.exit(0);
+        
          
     }
      
