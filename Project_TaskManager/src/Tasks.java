@@ -47,8 +47,8 @@ public class Tasks {
 		frame.setBounds(100, 100, 450, 300);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
-		
-		
+				
+		System.out.println("Initialising");		
 		
 		DateFormat df = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss");
 
